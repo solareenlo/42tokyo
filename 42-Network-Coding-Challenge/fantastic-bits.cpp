@@ -1,3 +1,12 @@
+/*
+ * Copyright (c) 2016 David Reignier <https://github.com/dreignier/fantastic-bits>
+ * GNU General Public License v3.0
+ *
+ * The eval() function is:
+ * Copyright (c) 2020 tayamamo <solareenlo@protonmail.com>
+ * GNU General Public License v3.0
+ */
+
 #pragma GCC optimize("-O3")
 #pragma GCC optimize("inline")
 #pragma GCC optimize("omit-frame-pointer")
